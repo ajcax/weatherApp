@@ -1,0 +1,14 @@
+.titleForecast {
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 35px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ForecastExtendend {
+    margin: 25px 35px 0px 35px;
+    height: 85vh;
+    overflow: auto;
+}

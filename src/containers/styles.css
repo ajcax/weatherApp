@@ -1,0 +1,21 @@
+.wrapper-fe
+{
+  
+    overflow: auto;
+    width: 350px;
+
+}
+
+.listContainer {
+    margin: 0 50px;
+}
+
+.feContainer {
+    margin: 0 50px;
+    height: 75vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 18px;
+}

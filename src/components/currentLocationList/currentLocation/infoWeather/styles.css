@@ -1,0 +1,22 @@
+.root, .root > div  {
+    display: block;
+    font-weight: 500;
+    padding: 15px 50px;
+}
+
+.wrapper-icon {
+    text-align: center;
+    font-size: 18px;
+    text-transform: capitalize;
+    padding: 20px 0;
+}
+
+.icon {
+    color: red;
+    display: block;
+}
+
+.info {
+    color: rgba(33, 150, 243, 1);
+    font-size: 18px;
+}

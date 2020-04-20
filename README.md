@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Depende de weatherAPI
+
+Importante: Para poder usarlo se requiere levantar la API bajo el proyecto (https://github.com/ajcax/weatherAPI) ya que el mismo esta conectado a dichos servicios!!!
+
 ## Available Scripts
 
 In the project directory, you can run:
